@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... [Africa in Science](https://africainscience.com)
+- 🔭 I’m currently working on ... [Africa in Science](https://africainscience.org)
 - 🌱 I’m currently learning ... Docker
 - 👯 I’m looking to collaborate on ... React & Node
 - 🤔 I’m looking for help with ... Microservices
