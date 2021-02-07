@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**soulaymaneabiadou/soulaymaneabiadou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, Here is a little bit About Me! 👋
 
 Here are some ideas to get you started:
 
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Email](mailto:abiadou.soulaymane@gmail.com) | [LinkedIn](https://www.linkedin.com/in/soulaymaneabiadou/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...
--->
