@@ -1,7 +1,7 @@
 ### Hello
 I am a software developer
 - Working with Next JS, Node and Typescript
-- Experimenting with Docker, Kubernetes, Cloud Providers and anything DevOps.
+- Experimenting with Docker, Kubernetes, Cloud Providers and everything DevOps.
 - Learning software architectures
 
 ## Get in touch with me
